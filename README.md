@@ -1,3 +1,3 @@
 # GearWheelView
 自定义齿轮View
-![image](https://github.com/993739033/CloseableSlidingLayoutDemo/blob/master/app/src/assest/S81210-14120715.gif)
+![image](https://github.com/993739033/GearWheelView/blob/master/app/assests/gearWhellView.gif)
