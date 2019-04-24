@@ -28,9 +28,9 @@ public class GearWheelView extends View {
     int gearOutCount = 8;//齿轮外部的齿合个数
     float gearOutBottomRatio = 0.8f;//齿合的底部占已分大小的比例
     float gearOutTopRatio = 0.4f;//齿合的顶部占已分大小的比例
-    float insideRingWidthRatio = 1F;//内环的宽度
-    float outsideRingWidthRatio = 1F;//外环的宽度
-    float gearWidthRatio = 0.8F;//外部齿合的高度
+    float insideRingWidthRatio = 1F;//内环的宽度比例
+    float outsideRingWidthRatio = 1F;//外环的宽度比例
+    float gearWidthRatio = 0.8F;//外部齿合的高度比例
     Point gearCenter;//齿轮中心
     float startAngle = 0;//齿轮的开始角度
     int animCircleTime = 1000;//动画一周期时长
