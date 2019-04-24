@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GearWheelView">
+        <!--一周期的时间-->
+        <attr name="GearWheelViewCycleTime" format="integer" />
+        <!--Base_R的大小-->
+        <attr name="GearWheelViewBaseR" format="dimension" />
+        <!--是否顺时针-->
+        <attr name="GearWheelViewClockWise" format="boolean" />
+
+    </declare-styleable>
+
+</resources>
